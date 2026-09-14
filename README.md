@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alkamah Sakilur Rashid</h1>
 <h3 align="center">💻 Computer Science Student • Full-Stack Developer • 📊 Data & AI Explorer • 🔐 Cybersecurity Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakilurrashid1-star&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sakilurrashid1-star&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></p>
 
 <p align="center">
   <a href="https://github.com/sakilurrashid1-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -30,30 +28,29 @@
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="20%" align="center">
 <h3>🧠 CareerLens</h3>
-<p>Interactive career intelligence engine with explainable role-fit scoring, skill-gap analysis and personalized roadmaps.</p>
-<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/career-intelligence/">Live Demo →</a><br/>
-<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/projects/career-intelligence">Source →</a><br/><br/>
+<p>Career intelligence dashboard with explainable role-fit scoring, skill-gap analysis, market signals and personalized roadmaps.</p>
+<a href="https://sakilurrashid1-star.github.io/CareerLens/">Live Demo →</a><br/>
+<a href="https://github.com/sakilurrashid1-star/CareerLens">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 <h3>🤖 NexusMarket AI</h3>
 <p>Interactive analytics dashboard for technology roles, compensation and skills.</p>
-<a href="https://github.com/sakilurrashid1-star/Nexusmarket-ai.">View Repository →</a><br/><br/>
-<img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/><br/>
-Python · Pandas · Streamlit · NLP
+<a href="https://github.com/sakilurrashid1-star/Nexusmarket-ai.">Repository →</a><br/><br/>
+<img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/><br/>Python · Pandas · Streamlit · NLP
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 <h3>⚡ MERN Task Manager</h3>
 <p>Full-stack task management application focused on reliability and clean architecture.</p>
-<a href="https://github.com/sakilurrashid1-star/High-Availability-MERN-Task-Manager">View Repository →</a><br/><br/>
+<a href="https://github.com/sakilurrashid1-star/High-Availability-MERN-Task-Manager">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack"/>
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 <h3>🌐 Personal Portfolio</h3>
 <p>Responsive portfolio showcasing projects, skills, activities and professional journey.</p>
-<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio">View Repository →</a><br/><br/>
+<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>
 </td>
 </tr>
@@ -68,31 +65,18 @@ Python · Pandas · Streamlit · NLP
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" alt="Web technologies" /></p>
 
 ### 📊 Data, AI & ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI technologies" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI technologies" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></p>
 
 ### 🗄️ Databases & Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,vscode,linux" alt="Databases and tools" /></p>
 
 ## 📚 Currently Learning
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analytics" />
-<img src="https://img.shields.io/badge/SQL-Database%20Skills-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/AI%20%26%20NLP-Applied%20AI-8A2BE2?style=for-the-badge" alt="AI and NLP" />
-<img src="https://img.shields.io/badge/Cybersecurity-Secure%20Engineering-2F855A?style=for-the-badge" alt="Cybersecurity" />
-</p>
+<p align="center"><img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analytics" /> <img src="https://img.shields.io/badge/SQL-Database%20Skills-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/AI%20%26%20NLP-Applied%20AI-8A2BE2?style=for-the-badge" alt="AI and NLP" /> <img src="https://img.shields.io/badge/Cybersecurity-Secure%20Engineering-2F855A?style=for-the-badge" alt="Cybersecurity" /></p>
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sakilurrashid1-star&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilurrashid1-star&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+<p align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=sakilurrashid1-star&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilurrashid1-star&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" /></p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=sakilurrashid1-star&theme=transparent&hide_border=true" alt="GitHub contribution streak" /></p>
 
 ## 🎯 2026 Focus
@@ -106,10 +90,6 @@ Python · Pandas · Streamlit · NLP
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="mailto:sakilurrashid1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/alkamah-sakilur-rashid-70855b42a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sakilurrashid1-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<p align="center"><a href="mailto:sakilurrashid1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/alkamah-sakilur-rashid-70855b42a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/sakilurrashid1-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
 <p align="center"><b>✨ Build • Learn • Improve • Repeat 🚀</b></p>
