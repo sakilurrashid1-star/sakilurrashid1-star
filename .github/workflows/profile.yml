@@ -1,0 +1,22 @@
+name: Profile Maintenance
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * 0"
+
+permissions:
+  contents: read
+
+jobs:
+  profile-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+      - name: Validate profile README
+        run: |
+          test -s README.md
+          grep -q "Alkamah Sakilur Rashid" README.md
+          grep -q "Featured Projects" README.md
+          echo "Profile README validation passed."
