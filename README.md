@@ -9,6 +9,8 @@ I build practical software, data-driven applications, and polished web experienc
 <p>
   <a href="https://github.com/sakilurrashid1-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/alkamah-sakilur-rashid-70855b42a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/share/1K8LyfMcxx/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/alkamahrashid?stkn=MXJvcmV5MmRybmRkOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:sakilurrashid1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -111,6 +113,8 @@ System Design & Secure Software
 
 <a href="https://www.linkedin.com/in/alkamah-sakilur-rashid-70855b42a/">LinkedIn</a> ·
 <a href="https://github.com/sakilurrashid1-star">GitHub</a> ·
+<a href="https://www.facebook.com/share/1K8LyfMcxx/">Facebook</a> ·
+<a href="https://www.instagram.com/alkamahrashid?stkn=MXJvcmV5MmRybmRkOQ==">Instagram</a> ·
 <a href="mailto:sakilurrashid1@gmail.com">Email</a>
 
 <br/><br/>
