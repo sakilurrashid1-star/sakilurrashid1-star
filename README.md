@@ -32,8 +32,8 @@
 <td width="20%" align="center">
 <h3>🌐 NetPulse</h3>
 <p>Interactive network intelligence lab with topology, packet flow, routing, subnetting, traceroute, TCP handshake and OSI visualization.</p>
-<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/netpulse/">Live Demo →</a><br/>
-<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/projects/netpulse">Repository →</a><br/><br/>
+<a href="https://sakilurrashid1-star.github.io/-NetPulse/">Live Demo →</a><br/>
+<a href="https://github.com/sakilurrashid1-star/-NetPulse">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 </td>
 <td width="20%" align="center">
@@ -65,8 +65,8 @@
 **Explore:** topology → packet forwarding → telemetry → routing table → CIDR subnetting → traceroute → TCP 3-way handshake → OSI layers.
 
 <p align="center">
-<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/netpulse/"><img src="https://img.shields.io/badge/🌐%20Launch%20NetPulse-Live%20Demo-0ea5e9?style=for-the-badge" alt="Launch NetPulse" /></a>
-<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/projects/netpulse"><img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="NetPulse source code" /></a>
+<a href="https://sakilurrashid1-star.github.io/-NetPulse/"><img src="https://img.shields.io/badge/🌐%20Launch%20NetPulse-Live%20Demo-0ea5e9?style=for-the-badge" alt="Launch NetPulse" /></a>
+<a href="https://github.com/sakilurrashid1-star/-NetPulse"><img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="NetPulse source code" /></a>
 </p>
 
 ## 🛠️ Technical Skills
