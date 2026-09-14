@@ -9,6 +9,27 @@
   <a href="mailto:sakilurrashid1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+## 🚀 Project Command Center
+
+<p align="center">
+  <b>⚡ One place to explore my complete project portfolio, live demos, engineering depth and case studies.</b>
+</p>
+
+<p align="center">
+  <a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/"><img src="https://img.shields.io/badge/🚀%20OPEN%20PROJECT%20COMMAND%20CENTER-Live%20Portfolio-0ea5e9?style=for-the-badge" alt="Open Project Command Center" /></a>
+  <a href="https://github.com/sakilurrashid1-star/alkamah-portfolio"><img src="https://img.shields.io/badge/📂%20Portfolio%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Portfolio Source" /></a>
+</p>
+
+<p align="center">
+  🛡️ NetPulse &nbsp;•&nbsp; 🧠 AetherMind &nbsp;•&nbsp; 📊 CareerLens &nbsp;•&nbsp; 🤖 NexusMarket AI &nbsp;•&nbsp; ⚙️ MERN Task Manager &nbsp;•&nbsp; 💻 Portfolio OS
+</p>
+
+> **Explore projects → filter by domain → inspect engineering depth → open case studies → launch demos → view source.**
+
+<p align="center">
+  <a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/"><img src="https://img.shields.io/badge/Explore%20All%20Projects-→-7c3aed?style=for-the-badge" alt="Explore all projects" /></a>
+</p>
+
 <p align="center">
   <b>🌐 Social Profiles</b><br/><br/>
   <a href="https://www.facebook.com/share/1K8LyfMcxx/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -29,7 +50,7 @@
 
 <br clear="right"/>
 
-## 🚀 Featured Projects
+## ✦ Featured Projects
 
 <table>
 <tr>
