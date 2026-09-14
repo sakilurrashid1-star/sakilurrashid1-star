@@ -30,26 +30,31 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
+<h3>🧠 CareerLens</h3>
+<p>Interactive career intelligence engine with explainable role-fit scoring, skill-gap analysis and personalized roadmaps.</p>
+<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/career-intelligence/">Live Demo →</a><br/>
+<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/projects/career-intelligence">Source →</a><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+</td>
+<td width="25%" align="center">
 <h3>🤖 NexusMarket AI</h3>
 <p>Interactive analytics dashboard for technology roles, compensation and skills.</p>
 <a href="https://github.com/sakilurrashid1-star/Nexusmarket-ai.">View Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/><br/>
 Python · Pandas · Streamlit · NLP
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <h3>⚡ MERN Task Manager</h3>
 <p>Full-stack task management application focused on reliability and clean architecture.</p>
 <a href="https://github.com/sakilurrashid1-star/High-Availability-MERN-Task-Manager">View Repository →</a><br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack"/><br/>
-MongoDB · Express · React · Node.js
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack"/>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <h3>🌐 Personal Portfolio</h3>
 <p>Responsive portfolio showcasing projects, skills, activities and professional journey.</p>
 <a href="https://github.com/sakilurrashid1-star/alkamah-portfolio">View Repository →</a><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/><br/>
-HTML · CSS · JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>
 </td>
 </tr>
 </table>
