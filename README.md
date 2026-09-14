@@ -20,6 +20,7 @@
 - 📊 Developing skills in **Python, SQL, Data Analytics and Data Science**
 - 🤖 Exploring **AI, NLP and applied machine learning**
 - 🔐 Interested in **cybersecurity and secure software engineering**
+- 🌐 Building interactive **computer networking and systems projects**
 - 🚀 Open to **internships, collaborations, open source and technical opportunities**
 
 <br clear="right"/>
@@ -28,6 +29,13 @@
 
 <table>
 <tr>
+<td width="20%" align="center">
+<h3>🌐 NetPulse</h3>
+<p>Interactive network intelligence lab with topology, packet flow, routing, subnetting, traceroute, TCP handshake and OSI visualization.</p>
+<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/netpulse/">Live Demo →</a><br/>
+<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/projects/netpulse">Repository →</a><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
+</td>
 <td width="20%" align="center">
 <h3>🧠 CareerLens</h3>
 <p>Career intelligence dashboard with explainable role-fit scoring, skill-gap analysis, market signals and personalized roadmaps.</p>
@@ -47,14 +55,19 @@
 <a href="https://github.com/sakilurrashid1-star/High-Availability-MERN-Task-Manager">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack"/>
 </td>
-<td width="20%" align="center">
-<h3>🌐 Personal Portfolio</h3>
-<p>Responsive portfolio showcasing projects, skills, activities and professional journey.</p>
-<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio">Repository →</a><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>
-</td>
 </tr>
 </table>
+
+## 🌐 NetPulse — Networking Showcase
+
+> **A visual networking lab built to demonstrate systems thinking, not just UI skills.**
+
+**Explore:** topology → packet forwarding → telemetry → routing table → CIDR subnetting → traceroute → TCP 3-way handshake → OSI layers.
+
+<p align="center">
+<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/netpulse/"><img src="https://img.shields.io/badge/🌐%20Launch%20NetPulse-Live%20Demo-0ea5e9?style=for-the-badge" alt="Launch NetPulse" /></a>
+<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/projects/netpulse"><img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="NetPulse source code" /></a>
+</p>
 
 ## 🛠️ Technical Skills
 
@@ -67,12 +80,15 @@
 ### 📊 Data, AI & ML
 <p align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI technologies" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></p>
 
+### 🌐 Networking & Systems
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="Networking and systems tools" /> <img src="https://img.shields.io/badge/TCP%2FIP-Networking-0ea5e9?style=for-the-badge" alt="TCP IP" /> <img src="https://img.shields.io/badge/OSI-7%20Layers-7c3aed?style=for-the-badge" alt="OSI model" /> <img src="https://img.shields.io/badge/CIDR-Subnetting-16a34a?style=for-the-badge" alt="CIDR" /></p>
+
 ### 🗄️ Databases & Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,vscode,linux" alt="Databases and tools" /></p>
 
 ## 📚 Currently Learning
 
-<p align="center"><img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analytics" /> <img src="https://img.shields.io/badge/SQL-Database%20Skills-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/AI%20%26%20NLP-Applied%20AI-8A2BE2?style=for-the-badge" alt="AI and NLP" /> <img src="https://img.shields.io/badge/Cybersecurity-Secure%20Engineering-2F855A?style=for-the-badge" alt="Cybersecurity" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analytics" /> <img src="https://img.shields.io/badge/SQL-Database%20Skills-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/AI%20%26%20NLP-Applied%20AI-8A2BE2?style=for-the-badge" alt="AI and NLP" /> <img src="https://img.shields.io/badge/Cybersecurity-Secure%20Engineering-2F855A?style=for-the-badge" alt="Cybersecurity" /> <img src="https://img.shields.io/badge/Networking-Systems-0ea5e9?style=for-the-badge" alt="Networking" /></p>
 
 ## 📈 GitHub Activity
 
@@ -84,6 +100,7 @@
 - 📊 Build stronger **Data Analytics & Data Science** projects
 - 🤖 Ship practical **AI/NLP** applications
 - 🌐 Improve **full-stack & backend engineering**
+- 🌐 Strengthen **computer networking & systems fundamentals**
 - 🔐 Build meaningful **cybersecurity** projects
 - 🤝 Contribute to **open source**
 - 💼 Earn a strong **technical internship**
