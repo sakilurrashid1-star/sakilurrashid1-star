@@ -12,7 +12,7 @@
 <p align="center">
   <b>🌐 Social Profiles</b><br/><br/>
   <a href="https://www.facebook.com/share/1K8LyfMcxx/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/alkamahrashid?stkn=MXJvcmV5MmRybmRkOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/alkamahrashid?stkn=MXJvcm5yMmRybmRkOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -32,6 +32,15 @@
 ## ✦ Featured Projects
 
 <table>
+<tr>
+<td colspan="4" align="center">
+<h2>🛡️ 10-Minute Engineering Challenge</h2>
+<h3>SOC Incident Response Decision Simulation</h3>
+<p>A flagship cybersecurity engineering simulation where the analyst handles a synthetic endpoint incident through <b>triage → containment → evidence preservation → threat-hunting scope → executive decisioning</b> under a 10-minute clock.</p>
+<p><b>100 points · 5 decisions · MITRE ATT&CK-oriented reasoning · Evidence discipline · Incident handoff report</b></p>
+<a href="https://sakilurrashid1-star.github.io/10-Minute-Engineering-Challenge/">🚀 Launch Challenge →</a> &nbsp; <a href="https://github.com/sakilurrashid1-star/10-Minute-Engineering-Challenge">📂 Source →</a>
+</td>
+</tr>
 <tr>
 <td width="25%" align="center">
 <h3>✦ AetherMind</h3>
@@ -57,30 +66,11 @@
 <td width="25%" align="center">
 <h3>🤖 NexusMarket AI</h3>
 <p>Interactive analytics dashboard for technology roles, compensation and skills using synthetic data.</p>
-<a href="https://github.com/sakilurrashid1-star/Nexusmarket-ai.">Repository →</a><br/><br/>
+<a href="https://github.com/sakilurrashid1-star/Nexusmarket-ai">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/><br/>Python · Pandas · Streamlit
 </td>
 </tr>
 </table>
-
-## ✦ AetherMind — Intelligence Showcase
-
-> **A decision system designed to be challenged, not blindly trusted.**
-
-**Explore:** parallel futures → agent debate → explainability trace → adaptive execution → challenge loop → voice copilot → optional secure AI gateway.
-
-<p align="center">
-<a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/apps/aethermind/"><img src="https://img.shields.io/badge/✦%20Launch%20AetherMind-Live%20Demo-0ea5e9?style=for-the-badge" alt="Launch AetherMind" /></a>
-<a href="https://github.com/sakilurrashid1-star/alkamah-portfolio/tree/main/apps/aethermind"><img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="AetherMind source" /></a>
-</p>
-
-## 🌐 NetPulse — Networking Showcase
-
-> **A visual networking lab built to demonstrate systems thinking, not just UI skills.**
-
-**Explore:** topology → packet forwarding → telemetry → routing table → CIDR subnetting → traceroute → TCP 3-way handshake → OSI layers.
-
-<p align="center"><a href="https://sakilurrashid1-star.github.io/-NetPulse/"><img src="https://img.shields.io/badge/🌐%20Launch%20NetPulse-Live%20Demo-0ea5e9?style=for-the-badge" alt="Launch NetPulse" /></a> <a href="https://github.com/sakilurrashid1-star/-NetPulse"><img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="NetPulse source" /></a></p>
 
 ## 🛠️ Technical Skills
 
@@ -146,15 +136,4 @@
 
 ---
 
-## 🧪 10-Minute Engineering Challenge
-
-<p align="center">
-  <b>Think like the on-call security engineer.</b><br/>
-  <sub>10 minutes · 5 decisions · 100 points · synthetic incident · no real systems touched</sub>
-</p>
-
-<p align="center">
-  <a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/10-minute-engineering-challenge.html"><img src="https://img.shields.io/badge/⏱️%20START%20THE%2010--MINUTE%20CHALLENGE-INCIDENT%20RESPONSE-ef4444?style=for-the-badge" alt="Start 10-Minute Engineering Challenge" /></a>
-</p>
-
-<p align="center"><sub>Triage → Contain → Preserve Evidence → Hunt Scope → Communicate</sub></p>
+<p align="center"><b>🛡️ Featured cybersecurity build: 10-Minute Engineering Challenge</b><br/>Triage → Contain → Preserve Evidence → Hunt Scope → Communicate</p>
