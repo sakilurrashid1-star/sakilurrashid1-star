@@ -33,15 +33,13 @@
 
 <table>
 <tr>
-<td colspan="4" align="center">
-<h2>🛡️ 10-Minute Engineering Challenge</h2>
-<h3>SOC Incident Response Decision Simulation</h3>
-<p>A flagship cybersecurity engineering simulation where the analyst handles a synthetic endpoint incident through <b>triage → containment → evidence preservation → threat-hunting scope → executive decisioning</b> under a 10-minute clock.</p>
-<p><b>100 points · 5 decisions · MITRE ATT&CK-oriented reasoning · Evidence discipline · Incident handoff report</b></p>
-<a href="https://sakilurrashid1-star.github.io/10-Minute-Engineering-Challenge/">🚀 Launch Challenge →</a> &nbsp; <a href="https://github.com/sakilurrashid1-star/10-Minute-Engineering-Challenge">📂 Source →</a>
+<td width="25%" align="center">
+<h3>🛡️ 10-Minute Engineering Challenge</h3>
+<p>SOC incident response decision simulation where an analyst handles a synthetic endpoint incident through triage, containment, evidence preservation, threat-hunting scope and executive decisioning.</p>
+<a href="https://sakilurrashid1-star.github.io/10-Minute-Engineering-Challenge/">Live Demo →</a><br/>
+<a href="https://github.com/sakilurrashid1-star/10-Minute-Engineering-Challenge">Repository →</a><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 </td>
-</tr>
-<tr>
 <td width="25%" align="center">
 <h3>✦ AetherMind</h3>
 <p>Decision intelligence studio with parallel futures, multi-agent debate, explainability, challenge loops and voice interaction.</p>
@@ -63,6 +61,8 @@
 <a href="https://github.com/sakilurrashid1-star/CareerLens">Repository →</a><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 </td>
+</tr>
+<tr>
 <td width="25%" align="center">
 <h3>🤖 NexusMarket AI</h3>
 <p>Interactive analytics dashboard for technology roles, compensation and skills using synthetic data.</p>
@@ -135,5 +135,3 @@
 <p align="center"><sub>Data • AI • Cybersecurity • Full-Stack • Decision Intelligence</sub></p>
 
 ---
-
-<p align="center"><b>🛡️ Featured cybersecurity build: 10-Minute Engineering Challenge</b><br/>Triage → Contain → Preserve Evidence → Hunt Scope → Communicate</p>
