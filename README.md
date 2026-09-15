@@ -139,7 +139,22 @@
 
 <p align="center">
   <a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/"><img src="https://img.shields.io/badge/Explore%20All%20Projects-ENTER%20COMMAND%20CENTER-7c3aed?style=for-the-badge" alt="Enter Project Command Center" /></a>
-  <a href="https://github.com/sakilurrashid1-star/alkamah-portfolio"><img src="https://img.shields.io/badge/📂%20VIEW%20PORTFOLIO%20SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" /></a>
+  <a href="https://github.com/sakilurrashid1-star/alkamah-portfolio"><img src="https://img.shields.io/badge/📂%20VIEW%20PORTFOLIO%20SOURCE-GITHUB-181717?style=for-the-badge&logo=github" alt="Portfolio source" /></a>
 </p>
 
 <p align="center"><sub>Data • AI • Cybersecurity • Full-Stack • Decision Intelligence</sub></p>
+
+---
+
+## 🧪 10-Minute Engineering Challenge
+
+<p align="center">
+  <b>Think like the on-call security engineer.</b><br/>
+  <sub>10 minutes · 5 decisions · 100 points · synthetic incident · no real systems touched</sub>
+</p>
+
+<p align="center">
+  <a href="https://sakilurrashid1-star.github.io/alkamah-portfolio/projects/10-minute-engineering-challenge.html"><img src="https://img.shields.io/badge/⏱️%20START%20THE%2010--MINUTE%20CHALLENGE-INCIDENT%20RESPONSE-ef4444?style=for-the-badge" alt="Start 10-Minute Engineering Challenge" /></a>
+</p>
+
+<p align="center"><sub>Triage → Contain → Preserve Evidence → Hunt Scope → Communicate</sub></p>
